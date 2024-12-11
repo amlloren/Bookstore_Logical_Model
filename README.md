@@ -1,6 +1,9 @@
 ## Designing a Logical Model for a Small Bookstore
-* [Business Case #1](#business-case-1-establishing-a-scalable-database-for-bookstore-operations)
-* [Business Case #2](#business-case-2-optimizing-workforce-scheduling-with-shift-management)
+In this project, we explore the design and implementation of a logical database model tailored for a small bookstore. By addressing real-world challenges such as fragmented data storage and inefficient workforce scheduling, this project demonstrates how a well-structured database can enhance operational efficiency and decision-making. The proposed solution incorporates fundamental database principles and best practices, using tools like Draw.io and relational database management systems (DBMS) such as MySQL or PostgreSQL. Each business case within this project highlights a specific operational pain point and provides a data-driven solution to improve performance, organization, and customer satisfaction.
+
+## Business Cases:
+* [Establishing a Database](#business-case-1-establishing-a-scalable-database-for-bookstore-operations)
+* [Optimizing Shift Management](#business-case-2-optimizing-workforce-scheduling-with-shift-management)
 
 ## Business Case #1: Establishing a Scalable Database for Bookstore Operations 
 
