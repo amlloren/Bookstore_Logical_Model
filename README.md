@@ -1,8 +1,8 @@
-# Designing a Logical Model for a Small Bookstore
+## Designing a Logical Model for a Small Bookstore
 * [Business Case #1](#business-case-1-establishing-a-scalable-database-for-bookstore-operations)
 * [Business Case #2](#business-case-2-optimizing-workforce-scheduling-with-shift-management)
 
-# Business Case #1: Establishing a Scalable Database for Bookstore Operations 
+## Business Case #1: Establishing a Scalable Database for Bookstore Operations 
 
 ### Problem Statement:
 The bookstore needs a structured and efficient way to store and manage data about its operations, including employees, customers, orders, sales, and inventory. Currently, the absence of an integrated system leads to fragmented data storage, making it difficult to analyze trends, track orders, and manage employee shifts effectively.
@@ -37,7 +37,7 @@ The relationships among these tables will ensure:
 * Easier analysis of sales trends and inventory turnover.
 * Improved operational decision-making by having access to structured, relational data.
 
-# Business Case #2: Optimizing Workforce Scheduling with Shift Management
+## Business Case #2: Optimizing Workforce Scheduling with Shift Management
 
 ### Problem Statement:
 The bookstore experiences fluctuating customer traffic throughout the day but lacks a structured way to schedule employees based on demand. Without dedicated shifts, the store struggles with overstaffing during slow hours and understaffing during peak periods, leading to increased labor costs and reduced customer satisfaction.
