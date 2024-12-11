@@ -17,7 +17,7 @@ The relationships among these tables will ensure:
 
 ### Key Features of the Logical Model:
 | feature | purpose |
-|---------|---------|
+|:-------:|---------|
 | Employee Table | Tracks employee details like ID, name, and contact information, with a relationship to a shift table for scheduling. |
 | Customer Table | Stores customer information, including ID, name, and optional address management (for potential future enhancements like delivery services). |
 | Order Table | Records customer orders, linking to the book and customer tables for order details. |
