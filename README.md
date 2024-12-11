@@ -43,6 +43,9 @@ The relationships among these tables will ensure:
 * Easier analysis of sales trends and inventory turnover.
 * Improved operational decision-making by having access to structured, relational data.
 
+![bookstore clerk](images/bookstore-2-unsplash.jpg)
+SOURCE: [Unsplash](https://unsplash.com/photos/people-inside-library-tv8PIPPY3rQ)
+
 ## Business Case #2: Optimizing Workforce Scheduling with Shift Management
 
 ### Problem Statement:
